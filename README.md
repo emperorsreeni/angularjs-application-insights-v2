@@ -2,7 +2,7 @@
 
 ## Connect your AngularJS client-side to Microsofts Application Insights with this easy-to-use Module.
 
-Application Insights is an extensible Application Performance Management (APM) service for web developers on multiple platforms. Use it to monitor your live web application. It will automatically detect performance anomalies. It includes powerful analytics tools to help you diagnose issues and to understand what users actually do with your app.
+ >Application Insights is an extensible Application Performance Management (APM) service for web developers on multiple platforms. Use it to monitor your live web application. It will automatically detect performance anomalies. It includes powerful analytics tools to help you diagnose issues and to understand what users actually do with your app.
 ---
 ## Installation
 
@@ -11,7 +11,7 @@ Application Insights is an extensible Application Performance Management (APM) s
 Install & save the library to your package.json:
 
 ```bash
-$ npm install -save @tamvasan/angularjs-application-insights-v2
+$ npm install -save angularjs-application-insights-v2
 ```
 
 ### Including javascript file in the browser
@@ -88,9 +88,7 @@ app.controller('testController', function ($scope, .... , $log, applicationInsig
             name: "PageLoaded",
             properties:
             {
-                "sessionId": "sss-0004--5454--545454",
                 "appId": "ddd-fff-ddd-ff-ddfdd-45454",
-                "userId": "ddd-fff-ddd-ff-ddfdd",
                 "timeStamp": new Date().toDateString(),
                 "page": "Explorer Page",
                 "action": "page loaded"

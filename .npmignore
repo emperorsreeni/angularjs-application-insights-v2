@@ -3,6 +3,7 @@ node_modules/*
 npm-debug.log
 
 
+
 # VS Code
 .vscode/*
 
@@ -13,3 +14,7 @@ Desktop.ini
 # Mac
 .DS_Store
 **/.DS_Store
+
+#Files
+src/*
+test-app/*

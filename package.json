@@ -1,7 +1,7 @@
 {
-  "name": "@tamvasan/angularjs-application-insights-v2",
-  "version": "0.0.1",
-  "description": "AngularJS library for Microsoft Application Insights Javascript v2 SDK",
+  "name": "angularjs-application-insights-v2",
+  "version": "0.0.4",
+  "description": "AngularJS module for Microsoft Application Insights Javascript v2 SDK",
   "repository": {
     "type": "git",
     "url": "https://github.com/tamilvasan/angularjs-application-insights-v2"
