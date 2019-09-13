@@ -160,8 +160,18 @@ $ gulp build
 
 ## Credits
 
-This project influnced by the following projects,
+This project inspired by the following projects,
 * [VladimirRybalko/angular-applicationinsights](https://github.com/VladimirRybalko/angular-applicationinsights)
 * [TrilonIO/angular-application-insights](https://github.com/TrilonIO/angular-application-insights)
 
 Test porject used from this [tjoudeh/FoursquareAngularJS](https://github.com/tjoudeh/FoursquareAngularJS) repository.
+
+# License
+
+[![MIT License](https://img.shields.io/badge/license-MIT-blue.svg?style=for-the-badge&color=e51384)](/LICENSE) 
+
+----
+
+## Follow online:
+
+Twitter: [@tamvasan](https://twitter.com/tamvasan)
