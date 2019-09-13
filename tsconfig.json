@@ -14,7 +14,7 @@
     "removeComments": true,
     "declarationMap": true,
     "outDir": "dist",
-    "outFile": "angularjs-appinsights.js"
+    "outFile": "angularjs-appinsights-v2.js"
   },
   "include": [
     "src/*.ts"

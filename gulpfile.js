@@ -12,7 +12,7 @@ gulp.task('clean', function () {
         .pipe(clean({force: true}));
   });
   gulp.task('minify', function () {
-    return gulp.src('dist/angularjs-appinsights.js')
+    return gulp.src('dist/angularjs-appinsights-v2.js')
         .pipe(print(filepath => `dest: ${filepath}`))
         .pipe(uglify())
         .pipe(rename(function(path){

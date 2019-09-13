@@ -1,8 +1,21 @@
 {
-  "name": "angularjs-application-insights-v2",
+  "name": "@tamvasan/angularjs-application-insights-v2",
   "version": "0.0.1",
   "description": "AngularJS library for Microsoft Application Insights Javascript v2 SDK",
-  "main": "dist/angularjs-appinsights.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/tamilvasan/angularjs-application-insights-v2"
+  },
+  "author": {
+    "name": "Sreenivasan",
+    "email": "eshock.vasan@gmail.com",
+    "url": "https://www.bitiniyan.com"
+  },
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/tamilvasan/angularjs-application-insights-v2/issues"
+  },
+  "main": "dist/angularjs-appinsights-v2.min.js",
   "scripts": {
     "lint": "tslint -p tsconfig.json",
     "clean": "rimraf ./dist",
@@ -30,8 +43,7 @@
     "applicationinsights",
     "stats"
   ],
-  "author": "Sreenivasan",
-  "license": "ISC",
+
   "devDependencies": {
     "gulp": "^4.0.2",
     "gulp-append-prepend": "^1.0.8",
