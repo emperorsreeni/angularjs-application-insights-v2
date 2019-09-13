@@ -16,10 +16,10 @@
 Install & save the library to your package.json:
 
 ```bash
-$ npm install -save angularjs-application-insights-v2
+$ npm install --save angularjs-application-insights-v2
 ```
 
-### Including javascript file in the browser
+### Including javascript file in the script tag
 
 * Copy the angularjs-appinsights-v2.min.js from **dist** folder to your project **scripts** folder 
 * Include this script file into your application shell html file
