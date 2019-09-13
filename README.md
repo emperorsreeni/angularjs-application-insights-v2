@@ -1,4 +1,4 @@
-# Angular Azure Application Insights implementation
+# Angular JS Azure Application Insights implementation
 
 ## Connect your AngularJS client-side to Microsofts Application Insights with this easy-to-use Module.
 
