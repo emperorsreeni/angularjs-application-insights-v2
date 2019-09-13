@@ -1,6 +1,6 @@
 {
   "name": "angularjs-application-insights-v2",
-  "version": "0.0.5",
+  "version": "0.0.6",
   "description": "AngularJS module for Microsoft Application Insights Javascript v2 SDK",
   "repository": {
     "type": "git",
