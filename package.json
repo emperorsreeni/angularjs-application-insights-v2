@@ -1,0 +1,48 @@
+{
+  "name": "angularjs-application-insights-v2",
+  "version": "0.0.1",
+  "description": "AngularJS library for Microsoft Application Insights Javascript v2 SDK",
+  "main": "dist/angularjs-appinsights.js",
+  "scripts": {
+    "lint": "tslint -p tsconfig.json",
+    "clean": "rimraf ./dist",
+    "clean.install": "rimraf ./dist ./package-lock.json && npm i",
+    "build": "npm run clean && npm run tsc",
+    "tsc": "tsc"
+  },
+  "keywords": [
+    "Application Insights",
+    "AngularJS",
+    "APM",
+    "angularJS",
+    "app insights",
+    "appinsights",
+    "application insights",
+    "Microsoft Appinsights",
+    "Microsoft Application Insights",
+    "telemetry",
+    "log collection",
+    "metrics",
+    "tracking",
+    "analytics",
+    "crash",
+    "analysis",
+    "applicationinsights",
+    "stats"
+  ],
+  "author": "Sreenivasan",
+  "license": "ISC",
+  "devDependencies": {
+    "gulp": "^4.0.2",
+    "gulp-append-prepend": "^1.0.8",
+    "gulp-clean": "^0.4.0",
+    "gulp-ext-replace": "^0.3.0",
+    "gulp-print": "^5.0.2",
+    "gulp-rename": "^1.4.0",
+    "gulp-typescript": "^5.0.1",
+    "gulp-uglify": "^3.0.2",
+    "rimraf": "^3.0.0",
+    "tslint": "^5.19.0",
+    "typescript": "^3.6.2"
+  }
+}

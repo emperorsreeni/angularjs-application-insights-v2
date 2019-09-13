@@ -1,0 +1,28 @@
+{
+  "compilerOptions": {
+    "sourceMap": true,
+    "inlineSources": true,
+    "noImplicitAny": false,
+    "module": "amd",
+    "target": "es5",
+    "alwaysStrict": false,
+    "declaration": true,
+    "preserveConstEnums": true,
+    "noImplicitReturns": true,
+    "noUnusedLocals": true,
+    "noUnusedParameters": true,
+    "removeComments": true,
+    "declarationMap": true,
+    "outDir": "dist",
+    "outFile": "angularjs-appinsights.js"
+  },
+  "include": [
+    "src/*.ts"
+],
+  
+  "exclude": [
+    "node_modules",
+    "src/typings/*.d.ts",
+    "dist"
+  ]
+}
