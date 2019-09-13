@@ -3,6 +3,11 @@
 ## Connect your AngularJS client-side to Microsofts Application Insights with this easy-to-use Module.
 
  >Application Insights is an extensible Application Performance Management (APM) service for web developers on multiple platforms. Use it to monitor your live web application. It will automatically detect performance anomalies. It includes powerful analytics tools to help you diagnose issues and to understand what users actually do with your app.
+
+[![npm](https://img.shields.io/npm/v/angularjs-application-insights-v2.svg?label=npm%20version&color=5b1096&style=for-the-badge)](https://www.npmjs.com/package/angularjs-application-insights-v2)
+[![NPM Downloads](https://img.shields.io/npm/dw/angularjs-application-insights-v2.svg?color=b31ae7&style=for-the-badge)](https://www.npmjs.com/package/angularjs-application-insights-v2)
+[![MIT License](https://img.shields.io/badge/license-MIT-blue.svg?style=for-the-badge&color=e51384)](/LICENSE)
+
 ---
 ## Installation
 
